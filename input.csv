@@ -1,0 +1,9 @@
+city,country_code,local_currency,amount
+Bengaluru,IN,INR,1250.50
+Berlin,DE,EUR,89.90
+San Francisco,US,USD,42.00
+Tokyo,JP,JPY,3600
+Kathmandu,NP,NPR,5000 
+Paris,FR,EUR,120.50
+London,GB,GBP,75.00
+Lagos,NG,NGN,15000

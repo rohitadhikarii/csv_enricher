@@ -1,0 +1,5 @@
+city,country_code,local_currency,amount_local,fx_rate_to_usd,amount_usd,latitude,longitude,temperature_c,wind_speed_mps,retrieved_at
+Berlin,DE,EUR,89.9,1.07,96.19,52.52437,13.41053,12.3,3.8,2025-08-21T12:34:56Z
+Paris,FR,EUR,120.5,1.08,129.74,48.8566,2.3522,15.6,2.5,2025-08-21T13:00:00Z
+Tokyo,JP,JPY,10500.0,0.0068,71.4,35.6762,139.6503,25.0,1.2,2025-08-21T14:00:00Z
+New York,US,USD,89.9,1.0,89.9,40.7128,-74.006,20.1,4.2,2025-08-21T15:00:00Z
